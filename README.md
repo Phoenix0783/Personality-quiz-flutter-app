@@ -1,4 +1,4 @@
-# my_first_app
+# Personality quiz
 
 A new Flutter project.
 
